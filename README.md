@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gterren
 - 👀 I’m interested in machine learning, baresian statistics, image processing and computer vision
 - 🌱 I’m currently learning sigma algebra for manifold learning
-- 💞️ I’m looking to collaborate on solar solar forecasting using sky imagers
+- 💞️ I’m looking to collaborate on solar forecasting using sky imagers
 - 📫 How to reach me I'm PhD student at ECE Dept. of UNM write me at guille.terren@gmail.com
 
 <!---
