@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Guillermo. I'm Postdoc at ES Dept. of UCSB
-- 👀 I’m interested in machine learning, Bayesian statistics, image processing for renewable energy and smar grids.
+- 👀 I’m interested in machine learning, Bayesian statistics, image processing and optimization for renewable energy and smar grids.
 - 🌱 I’m currently learning sigma algebra for manifold learning
 - 💞️ I’m looking to collaborate on solar forecasting using sky images
 - 📫 Feel free to reach me at guille.terren@gmail.com
