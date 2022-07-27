@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Guillermo. I'm Postdoc at ES Dept. of UCSB
 - 👀 I’m interested in machine learning, Bayesian statistics, image processing and optimization for renewable energy and smart grids.
-- 🌱 I’m currently learning functional data analysis
+- 🌱 I’m currently learning functional data analysis for smart grids operational planning
 - 💞️ I’m looking to collaborate on solar forecasting using sky images
 - 📫 Feel free to reach me at guille.terren@gmail.com
