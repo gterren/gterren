@@ -1,5 +1,5 @@
 - Hi, my name is Guillermo. I'm a Postdoc at the Environmental Studies Program and the Environmental Markets Lab (emLab) at UC Santa Barbara.
-- I’m interested in probabilistic machine learning, deep learning, Bayesian statistics, computer vision, and optimization for renewable energy integration and smart grid applications.
+- I’m interested in machine learning, Bayesian statistics, remote sensing, and operational research for renewable energy integration.
 - I’m currently learning functional data analysis and optimization for operational planning of modern grids with high participation of renewable energy sources
 - I’m looking to collaborate on solar, wind, and demand forecasts using remote sensing (sky imagers, satellite imagery) and numerical weather prediction.
 - Feel free to reach me at guille.terren@gmail.com
